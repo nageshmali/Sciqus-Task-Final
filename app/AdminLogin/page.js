@@ -56,7 +56,7 @@ const page = () => {
           <img src='MobileHome.png' className='lg:h-0 md:h-0 lg:w-0 md:w-0 bg-[#F1EDED] h-full w-full' />
       </div>
 
-      <div className="absolute lg:top-4 md:top-4 top-16 lg:right-1/4 md:right-1/4 flex items-center justify-center px-4 py-10 lg:px-3 lg:py-12">
+      <div className="absolute border bg-white right-10 rounded lg:top-10 md:top-4 top-16 lg:right-1/4 md:right-1/4 flex items-center justify-center px-4 py-10 lg:px-6 lg:py-10">
           <div className="xl:mx-auto xl:w-full xl:max-w-sm 2xl:max-w-md">
             <h2 className="text-5xl font-bold text-black sm:text-5xl">Admin Login</h2>
             
