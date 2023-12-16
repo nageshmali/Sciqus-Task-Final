@@ -72,7 +72,7 @@ const page = () => {
                       className="flex h-10 w-full rounded-md border border-gray-300 bg-transparent px-3 py-2 text-sm placeholder:text-gray-400 "
                       type="email"
                       name='email'
-                      placeholder="Email"
+                      placeholder="Enter admin@gmail.com for valid admin"
                       id="email"
                       value={adminemail}
                       onChange={(e)=>{
@@ -95,7 +95,7 @@ const page = () => {
                       className="flex h-10 w-full rounded-md border border-gray-300 bg-transparent px-3 py-2 text-sm "
                       type="password"
                       name='password'
-                      placeholder="Password"
+                      placeholder="Enter admin@12345 for valid Admin"
                       id="password"
                       value={adminpass}
                       onChange={(e)=>{
