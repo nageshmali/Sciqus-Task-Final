@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) Frontend project made with purpose for completing the task alloted.
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server by going to right path at your terminal:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Below are Demo Video Link and Screenshots.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Application Demo Video
 
-## Learn More
+For Demo Video click below link.
 
-To learn more about Next.js, take a look at the following resources:
+https://drive.google.com/file/d/1d2M_ebXj6tL_XMUd0KDZxuF16VxN6bHK/view?usp=sharing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Here are some Application Screenshots.
 
-## Deploy on Vercel
+1.Homepage
+![Screenshot (71)](https://github.com/nageshmali/Sciqus/assets/98390062/57ac6925-5ace-43a8-af0e-18d548284979)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2.Student Registration
+![Screenshot (72)](https://github.com/nageshmali/Sciqus/assets/98390062/f92aad80-6c9a-4acc-afb4-f7e2b6261513)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3.Checks for valid input fields
+![Screenshot (73)](https://github.com/nageshmali/Sciqus/assets/98390062/030fd1b9-f409-47fe-96f0-e7b68b9a4572)
+
+4.Successfull Registration
+![Screenshot (74)](https://github.com/nageshmali/Sciqus/assets/98390062/fd6a4bbe-6e7e-4a27-b16b-6d0bdb6e8a00)
+
+5.Student Login
+![Screenshot (75)](https://github.com/nageshmali/Sciqus/assets/98390062/8d16aec6-20e8-4c05-90f8-80237f88cf7f)
+
+6.Checks for Password
+![Screenshot (76)](https://github.com/nageshmali/Sciqus/assets/98390062/dfd9be2b-06a4-43e6-a67c-465a19e2489b)
+
+7.Successfull Login
+![Screenshot (77)](https://github.com/nageshmali/Sciqus/assets/98390062/8f2f3611-7290-49c4-90f7-d967d4e53f75)
+
+8.Student Dashboard
+![Screenshot (78)](https://github.com/nageshmali/Sciqus/assets/98390062/a11db2a1-d6fc-48c9-b3db-c28a02ec1109)
+
+9.Admin Login
+![Screenshot (79)](https://github.com/nageshmali/Sciqus/assets/98390062/71ee52b6-9b5e-47d1-bfec-95da4c775af1)
+
+10.Admin Dashboard
+![Screenshot (80)](https://github.com/nageshmali/Sciqus/assets/98390062/3583b627-3df1-4c1d-af42-7715b8d59380)
+
+
+## Responsive to Mobile View
+1.
+![Mob1](https://github.com/nageshmali/Sciqus/assets/98390062/8598b17e-7364-49e5-8248-1e78c1331ae1)
+
+2.
+![Mob2](https://github.com/nageshmali/Sciqus/assets/98390062/731fa126-dc95-4d45-bb3d-3a099047f5e5)
+
+
+
+
+
+## Thank You !
