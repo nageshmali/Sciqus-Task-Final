@@ -33,36 +33,35 @@ Here are some Application Screenshots.
 ![Screenshot (73)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/21eb839e-663a-4a70-8c2e-c2b60d72bd8b)
 
 4.Successfull Registration
-![Screenshot (74)](https://github.com/nageshmali/Sciqus/assets/98390062/fd6a4bbe-6e7e-4a27-b16b-6d0bdb6e8a00)
+![Screenshot (74)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/7e41d341-1415-462d-b034-1df97ec0591b)
 
 5.Student Login
-![Screenshot (75)](https://github.com/nageshmali/Sciqus/assets/98390062/8d16aec6-20e8-4c05-90f8-80237f88cf7f)
+![Screenshot (75)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/af34353d-1534-409c-9024-e6df6f216806)
 
 6.Checks for Password
-![Screenshot (76)](https://github.com/nageshmali/Sciqus/assets/98390062/dfd9be2b-06a4-43e6-a67c-465a19e2489b)
+![Screenshot (76)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/4dd62f04-c173-47cb-a49f-8d5e1db0e9f3)
 
 7.Successfull Login
-![Screenshot (77)](https://github.com/nageshmali/Sciqus/assets/98390062/8f2f3611-7290-49c4-90f7-d967d4e53f75)
+![Screenshot (77)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/bc040485-0e8a-43fe-8553-91e92929c0d2)
 
 8.Student Dashboard
-![Screenshot (78)](https://github.com/nageshmali/Sciqus/assets/98390062/a11db2a1-d6fc-48c9-b3db-c28a02ec1109)
+![Screenshot (78)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/3cbfea49-56b7-41c9-a166-42d455cd990e)
 
 9.Admin Login
-![Screenshot (79)](https://github.com/nageshmali/Sciqus/assets/98390062/71ee52b6-9b5e-47d1-bfec-95da4c775af1)
+![Screenshot (79)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/61fc1350-b272-4bc7-847c-d0d55002e07f)
 
 10.Admin Dashboard
-![Screenshot (80)](https://github.com/nageshmali/Sciqus/assets/98390062/3583b627-3df1-4c1d-af42-7715b8d59380)
+![Screenshot (80)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/5426cb09-b373-4209-a4dc-da320b43f1e9)
+
 
 
 ## Responsive to Mobile View
 1.
-![Mob1](https://github.com/nageshmali/Sciqus/assets/98390062/8598b17e-7364-49e5-8248-1e78c1331ae1)
+![Mob1](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/e4c03c95-f706-4cca-9800-3349a4dbfb30)
+
 
 2.
-![Mob2](https://github.com/nageshmali/Sciqus/assets/98390062/731fa126-dc95-4d45-bb3d-3a099047f5e5)
-
-
-
+![Mob2](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/5bdd455c-d2c8-40b3-bba5-ba215c0d6dbf)
 
 
 ## Thank You !
