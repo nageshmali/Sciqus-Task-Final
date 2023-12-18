@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1d2M_ebXj6tL_XMUd0KDZxuF16VxN6bHK/view?usp=shari
 Here are some Application Screenshots.
 
 1.Homepage
-![Screenshot (71)](https://github.com/nageshmali/Sciqus/assets/98390062/57ac6925-5ace-43a8-af0e-18d548284979)
+![Screenshot (71)](https://github.com/nageshmali/Sciqus/assets/98390062/57ac6925-5ace-43a8-af0e-18d548284979) 
 
 2.Student Registration
 ![Screenshot (72)](https://github.com/nageshmali/Sciqus/assets/98390062/f92aad80-6c9a-4acc-afb4-f7e2b6261513)
