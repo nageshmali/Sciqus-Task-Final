@@ -24,13 +24,13 @@ https://drive.google.com/file/d/1d2M_ebXj6tL_XMUd0KDZxuF16VxN6bHK/view?usp=shari
 Here are some Application Screenshots.
 
 1.Homepage
-![Screenshot (71)](https://github.com/nageshmali/Sciqus/assets/98390062/57ac6925-5ace-43a8-af0e-18d548284979) 
+![Screenshot (71)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/cd083914-418b-489e-b867-c612694dcaf1)
 
 2.Student Registration
-![Screenshot (72)](https://github.com/nageshmali/Sciqus/assets/98390062/f92aad80-6c9a-4acc-afb4-f7e2b6261513)
+![Screenshot (72)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/9f0e7931-d789-4ce7-8103-40eb444db096)
 
 3.Checks for valid input fields
-![Screenshot (73)](https://github.com/nageshmali/Sciqus/assets/98390062/030fd1b9-f409-47fe-96f0-e7b68b9a4572)
+![Screenshot (73)](https://github.com/nageshmali/Sciqus-Task-Final/assets/98390062/21eb839e-663a-4a70-8c2e-c2b60d72bd8b)
 
 4.Successfull Registration
 ![Screenshot (74)](https://github.com/nageshmali/Sciqus/assets/98390062/fd6a4bbe-6e7e-4a27-b16b-6d0bdb6e8a00)
